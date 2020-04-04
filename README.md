@@ -9,7 +9,7 @@ Use pip install -r requirements.txt after cloning, make sure you install require
 
 ### Steps:
 
-  ### If your virtual environement name is venv then go to this location:
+  ### If your virtual environment name is venv then go to this location:
   ### ..\venv\Lib\site-packages\status\api
   
   ### Open the mixins.py file and replace 
