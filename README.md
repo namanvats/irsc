@@ -5,7 +5,7 @@ Instruction to Run the Server, Application and Endpoints are given in the Docume
 
 Use pip install -r requirements.txt after cloning, make sure you install requirements.txt in a virtual environment.
 
-After Installing Requirement.txt packages in a virtual environment one critical task is required before doing migrations.
+After Installing Requirements.txt packages in a virtual environment one critical task is required before doing migrations.
 
 Steps:
 
